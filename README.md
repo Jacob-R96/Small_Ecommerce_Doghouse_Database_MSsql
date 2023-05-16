@@ -1,1 +1,3 @@
 # Small_Ecommerce_Doghouse_Database_MSsql
+
+As part of this project, I employed a systematic approach involving three distinct files to establish a comprehensive database for a small-scale e-commerce enterprise specializing in Doghouse products. The initial file encompassed meticulously crafted queries to construct tables, encompassing their appropriate column structure and comprehensive three-part definition. The second file entailed the inclusion of relevant data into these tables, ensuring their integrity and coherence. Lastly, the third file encompassed queries responsible for the creation of views and functions, which play a pivotal role in enhancing the functionality and accessibility of the established database.
